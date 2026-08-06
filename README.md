@@ -1,8 +1,7 @@
 ## Testing tokenrouter api with Kimi K3 free model inside google app script
 
 #### Step 1<br>
-goto script.google.com/home<br>
-create a new project<br>
+goto <a href='https://script.google.com/home'>google app script home</a> to create a new project<br>
 <br>
 #### Step 2<br>
 find the <a href='https://raw.githubusercontent.com/WingsMaker/kimi-k3-demo/refs/heads/main/google_script.txt '>google_script.txt</a> in this github<br>
