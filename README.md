@@ -20,3 +20,4 @@ goto the bottom of the script where function testKimiK3 is, change the code:<br>
 at the top of the Apps Script editor, find the dropdown list between "Debug" and "Execution log".<br>
 Select "testKimiK3" and click the "Run" option to test run<br>
 <br>
+<img width="920" height="132" alt="image" src="https://github.com/user-attachments/assets/98032017-45bb-49b4-ad76-a0bc278492c9" />
