@@ -5,7 +5,7 @@ goto script.google.com/home<br>
 create a new project<br>
 <br>
 #### Step 2<br>
-find the google_script.txt in this github, https://raw.githubusercontent.com/WingsMaker/kimi-k3-demo/refs/heads/main/google_script.txt <br>
+find the <a href='https://raw.githubusercontent.com/WingsMaker/kimi-k3-demo/refs/heads/main/google_script.txt '>google_script.txt</a> in this github<br>
 copy-paste the content onto the google script project<br>
 <br>
 #### Step 3
