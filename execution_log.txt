@@ -1,0 +1,39 @@
+Execution log
+Notice	Execution started
+Info	**Translation:**
+
+"When the sun was setting on me, you weren't by my side; now that I'm rising again, who do you think you are?"
+
+**More natural English versions:**
+
+- "You didn't stand by me when I was down, so who are you now that I'm back on top?"
+- "You weren't there during my hard times — you have no place in my success."
+
+**Explanation:**
+
+This is a popular Chinese saying about fair-weather friends. It uses two idioms:
+
+- **日落西山** (the sun setting in the west) = being at rock bottom, in decline
+- **东山再起** (rising again from the eastern mountain) = making a comeback
+
+The phrase expresses resentment toward people who abandon you during difficult times but try to come back once you've succeeded. It's essentially saying: *"If you couldn't support me at my worst, you don't deserve me at my best."*
+3:19:42 PM	Info	Result:
+**Translation:**
+
+"When the sun was setting on me, you weren't by my side; now that I'm rising again, who do you think you are?"
+
+**More natural English versions:**
+
+- "You didn't stand by me when I was down, so who are you now that I'm back on top?"
+- "You weren't there during my hard times — you have no place in my success."
+
+**Explanation:**
+
+This is a popular Chinese saying about fair-weather friends. It uses two idioms:
+
+- **日落西山** (the sun setting in the west) = being at rock bottom, in decline
+- **东山再起** (rising again from the eastern mountain) = making a comeback
+
+The phrase expresses resentment toward people who abandon you during difficult times but try to come back once you've succeeded. It's essentially saying: *"If you couldn't support me at my worst, you don't deserve me at my best."*
+
+Notice	Execution completed
