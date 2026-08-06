@@ -1,22 +1,23 @@
 ## this is a demo on how to test tokenrouter api with Kimi K3 free model inside google app script
 
-#### Step 1
-goto script.google.com/home
-create a new project
-
-#### Step 2
-find the google_script.txt in this github 
-copy-paste the content onto the google script project
-
+#### Step 1<br>
+goto script.google.com/home<br>
+create a new project<br>
+<br>
+#### Step 2<br>
+find the google_script.txt in this github <br>
+copy-paste the content onto the google script project<br>
+<br>
 #### Step 3
-goto www.tokenrouter.com to register free account, get a free api key
-paste the api key value onto the line 14 
-    const apiKey = "......";
-
-### Step 4
-goto the bottom of the script where function testKimiK3 is, change the code:
-  const prompt = "...put in your own prompts";
-
-### Step 5
-at the top of the Apps Script editor, find the dropdown list between "Debug" and "Execution log".
-Select "testKimiK3" and click the "Run" option to test run
+goto www.tokenrouter.com to register free account, get a free api key<br>
+paste the api key value onto the line 14 <br>
+    const apiKey = "......";<br>
+<br>
+### Step 4<br>
+goto the bottom of the script where function testKimiK3 is, change the code:<br>
+  const prompt = "...put in your own prompts";<br>
+<br>
+### Step 5<br>
+at the top of the Apps Script editor, find the dropdown list between "Debug" and "Execution log".<br>
+Select "testKimiK3" and click the "Run" option to test run<br>
+<br>
