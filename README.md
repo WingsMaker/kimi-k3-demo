@@ -24,3 +24,5 @@ Select "testKimiK3" and click the "Run" option to test run<br>
 <br>
 Click on the "Execution log", you will see the results of the test run<br>
 <a href='https://raw.githubusercontent.com/WingsMaker/kimi-k3-demo/refs/heads/main/execution_log.txt'>Example execution log</a>
+<br>
+For python version, see kimi.py
